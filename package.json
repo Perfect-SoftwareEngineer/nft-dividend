@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.3.0",
+    "@openzeppelin/test-helpers": "^0.5.13",
+    "@truffle/hdwallet-provider": "^1.4.3",
+    "truffle": "^5.4.6",
+    "truffle-flattener": "^1.5.0"
+  }
+}
